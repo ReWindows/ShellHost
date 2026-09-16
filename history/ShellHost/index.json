@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "ShellHost.exe",
+  "latest": "1943988920-62452854C6BCA7CA97A4B9613A22E563-1",
+  "builds": [
+    {
+      "key": "1943988920-62452854C6BCA7CA97A4B9613A22E563-1",
+      "timestamp": "1943988920",
+      "pdb_guid": "62452854C6BCA7CA97A4B9613A22E563",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1943988920-62452854C6BCA7CA97A4B9613A22E563-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
